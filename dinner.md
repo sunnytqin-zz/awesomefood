@@ -7,7 +7,7 @@ title: Dinner
 
 <details>
   <summary>Chinese noodles </summary>
-  <br>
+  
   [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
     >  shape like pasta (roll out and cut to strips) 
   
@@ -17,7 +17,7 @@ title: Dinner
 
 <details>
   <summary>Borscht </summary>
-  <br>
+  
   [Original Link](https://natashaskitchen.com/classic-russian-borscht-recipe/)
 
 </details>
@@ -25,18 +25,16 @@ title: Dinner
 
 <details>
   <summary>Fresh-made Pasta </summary>
-  <br>
-  [Original Link](https://www.loveandlemons.com/homemade-pasta-recipe/)
+
+    [Original Link](https://www.loveandlemons.com/homemade-pasta-recipe/)
 
 </details>
   
 ## Fusion 
 
-<details>
-  <summary>Coconut Rice </summary>
-  <br>
+
   [Original Link](https://www.youtube.com/watch?v=i9EmC0pM1YE)
-  
+
   | Ingredients |  
   | ---      |
   | 1 cup basmati rice | 
@@ -53,8 +51,8 @@ title: Dinner
   | generous pinch of salt | 
   | 1/2 cup shredded coconut |
   | few sprigs cilantro |
-  
-  
+
+
   > Directions:  
   > 1. Place 1 cup of basmati rice into a small sauce pan.  Wash and drain the rice a couple of times to get rid of the excess starch
   > 2. Toast the rice for a couple of minutes on medium high heat.  Then, add in 1 cup of coconut milk
@@ -67,6 +65,6 @@ title: Dinner
   > 9. Sauté for 3-4min
   > 10. Add the shredded coconut.  Sauté for another couple of minutes and taste and adjust the seasoning if needed
   > 11. Plate the rice and add the coconut chickpeas on top.  Garnish with some freshly chopped cilantro
-  
- </details>
+
+
 
