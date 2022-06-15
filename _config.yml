@@ -6,7 +6,9 @@ defaults:
       path: ""
     values:
       layout: default
-  - home:
+
+defaults:
+  home:
       heading: "Sunny's Confectionary and Computer Science Emporium  "
       subheading: "Her favoritte recipes all in one place"
       banner: https://www.dreamstime.com/illustration/kitchen-watercolor.html
