@@ -2,22 +2,36 @@
 layout: post
 title: Dinner
 ---
-
-## Asian
-* Chinese noodles: https://whattocooktoday.com/dao-xiao-mian.html
+<details>
+  <summary>Asian </summary>
+  
+  ## Chinese noodles: https://whattocooktoday.com/dao-xiao-mian.html
   > shape like pasta (roll out and cut to strips) 
+  
+</details>
 
-## Indian
+<details>
+  <summary>Indian </summary>
+  
+  Empty
+</details>
 
-## European (West and East)
- * Borscht: https://natashaskitchen.com/classic-russian-borscht-recipe/
- * Fresh-made Pasta: https://www.loveandlemons.com/homemade-pasta-recipe/
+<details>
+  <summary>European (West and East) </summary>
+  
+ ## Borscht:  
+    https://natashaskitchen.com/classic-russian-borscht-recipe/
+ ## Fresh-made Pasta:  
+    https://www.loveandlemons.com/homemade-pasta-recipe/
 
-## Middle East
+</details>
+  
+<details>
+  <summary>Fusion </summary>
 
-## Fusion
-* Coconut Rice: https://www.youtube.com/watch?v=i9EmC0pM1YE
-  > Ingredients:
+## Coconut Rice: 
+  https://www.youtube.com/watch?v=i9EmC0pM1YE
+  > Ingredients:  
   1 cup basmati rice
   1 cup coconut milk
   1/2 red onion
@@ -32,7 +46,7 @@ title: Dinner
   generous pinch of salt
   1/2 cup shredded coconut
   few sprigs cilantro
-  > Directions:
+  > Directions:  
   > 1. Place 1 cup of basmati rice into a small sauce pan.  Wash and drain the rice a couple of times to get rid of the excess starch
   > 2. Toast the rice for a couple of minutes on medium high heat.  Then, add in 1 cup of coconut milk
   > 3. When the milk starts to bubble, give the rice a good stir to make sure nothing is grabbing the bottom of the pan.  Then, cover and cook on medium low for 15min
