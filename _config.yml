@@ -10,6 +10,7 @@ defaults:
 markdown: kramdown
 kmarkdown:
   input: GFM
+  parse_block_html: true
 
 plugins:
   - jekyll-feed
