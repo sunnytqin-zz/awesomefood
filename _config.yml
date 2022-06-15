@@ -6,4 +6,15 @@ defaults:
       heading: "Sunny's Confectionary and Computer Science Emporium  "
       subheading: "Her favorite recipes all in one place"
       banner: /banner.jpeg
+      
+markdown: kramdown
+kmarkdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
 
