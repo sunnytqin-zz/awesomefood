@@ -4,6 +4,6 @@ title: Sunny's Confectionary and Computer Science Emporium
 defaults:
   home:
       heading: "Sunny's Confectionary and Computer Science Emporium  "
-      subheading: "Her favoritte recipes all in one place"
-      banner: https://www.dreamstime.com/illustration/kitchen-watercolor.html
+      subheading: "Her favorite recipes all in one place"
+      banner: /kitchen.jpeg
 
