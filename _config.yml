@@ -5,5 +5,5 @@ defaults:
   home:
       heading: "Sunny's Confectionary and Computer Science Emporium  "
       subheading: "Her favorite recipes all in one place"
-      banner: /kitchen.jpeg
+      banner: /banner.jpeg
 
