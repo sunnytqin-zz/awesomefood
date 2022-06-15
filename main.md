@@ -1,5 +1,6 @@
+---
 layout: page
-title: "main page"
-permalink: main.md
+title: Coursework
+---
 
 add content here
