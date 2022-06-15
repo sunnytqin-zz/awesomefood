@@ -7,9 +7,11 @@ title: Dinner
 
 <details>
   <summary>Chinese noodles </summary>
+  <pre>
   
   [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
     >  shape like pasta (roll out and cut to strips) 
+  </pre>
   
 </details>
 
