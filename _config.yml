@@ -1,4 +1,6 @@
 remote_theme: jeffreytse/jekyll-theme-yat
+title: Sunny's Confectionary and Compuster Science Emporium  
+description: Sunny's favorite recipes all in one place 
 defaults:
   - scope:
       path: ""
