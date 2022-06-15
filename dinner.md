@@ -2,50 +2,59 @@
 layout: post
 title: Dinner
 ---
+
+## Asian
+
 <details>
-  <summary>Asian </summary>
+  <summary>Chinese noodles </summary>
   
-  ## Chinese noodles: https://whattocooktoday.com/dao-xiao-mian.html
-  > shape like pasta (roll out and cut to strips) 
+  [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
+    >  shape like pasta (roll out and cut to strips) 
   
 </details>
 
-<details>
-  <summary>Indian </summary>
-  
-  Empty
-</details>
+## European (West and East)
 
 <details>
-  <summary>European (West and East) </summary>
-  
- ## Borscht:  
-    https://natashaskitchen.com/classic-russian-borscht-recipe/
- ## Fresh-made Pasta:  
-    https://www.loveandlemons.com/homemade-pasta-recipe/
+  <summary>Borscht </summary>
+   
+  [Original Link](https://natashaskitchen.com/classic-russian-borscht-recipe/)
 
 </details>
-  
-<details>
-  <summary>Fusion </summary>
 
-## Coconut Rice: 
-  https://www.youtube.com/watch?v=i9EmC0pM1YE
-  > Ingredients:  
-  1 cup basmati rice
-  1 cup coconut milk
-  1/2 red onion
-  1/4 cup hazelnuts
-  1 cup broccolini (chopped)
-  1 tbsp coconut oil
-  1 cup canned chickpeas
-  1/2 tbsp garlic powder
-  1 tsp chili powder
-  1 tbsp smoked paprika
-  2 tsp turmeric
-  generous pinch of salt
-  1/2 cup shredded coconut
-  few sprigs cilantro
+
+<details>
+  <summary>Fresh-made Pasta </summary>
+   
+  [Original Link](https://www.loveandlemons.com/homemade-pasta-recipe/)
+
+</details>
+  
+## Fusion 
+
+<details>
+  <summary>Coconut Rice </summary>
+  
+  [Original Link](https://www.youtube.com/watch?v=i9EmC0pM1YE)
+  
+  | Ingredients |  
+  | ---      |
+  | 1 cup basmati rice | 
+  | 1 cup coconut milk |
+  | 1/2 red onion |
+  | 1/4 cup hazelnuts |
+  | 1 cup broccolini (chopped) |
+  | 1 tbsp coconut oil |
+  | 1 cup canned chickpeas |
+  | 1/2 tbsp garlic powder |
+  | 1 tsp chili powder |
+  | 1 tbsp smoked paprika |
+  | 2 tsp turmeric |
+  | generous pinch of salt | 
+  | 1/2 cup shredded coconut |
+  | few sprigs cilantro |
+  
+  
   > Directions:  
   > 1. Place 1 cup of basmati rice into a small sauce pan.  Wash and drain the rice a couple of times to get rid of the excess starch
   > 2. Toast the rice for a couple of minutes on medium high heat.  Then, add in 1 cup of coconut milk
@@ -58,4 +67,6 @@ title: Dinner
   > 9. Sauté for 3-4min
   > 10. Add the shredded coconut.  Sauté for another couple of minutes and taste and adjust the seasoning if needed
   > 11. Plate the rice and add the coconut chickpeas on top.  Garnish with some freshly chopped cilantro
+  
+ </details>
 
