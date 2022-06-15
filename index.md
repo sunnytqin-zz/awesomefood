@@ -3,6 +3,11 @@
 You can use the [editor on GitHub](https://github.com/sunnytqin/awesomefood/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+<details>
+  <summary>Dinner 
+    
+
 ## Asian
 * Chinese noodles: https://whattocooktoday.com/dao-xiao-mian.html
   > shape like pasta (roll out and cut to strips) 
@@ -46,7 +51,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   > 11. Plate the rice and add the coconut chickpeas on top.  Garnish with some freshly chopped cilantro
 
 
-
+<details>
 
 ### Markdown
 
