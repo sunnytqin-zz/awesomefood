@@ -1,5 +1,10 @@
 remote_theme: jeffreytse/jekyll-theme-yat
 title: Sunny's Confectionary and Computer Science Emporium  
+home:
+      heading: "Your awesome heading"
+      subheading: "Your awesome subheading"
+      banner: https://www.dreamstime.com/illustration/kitchen-watercolor.html
+
 subtitle: Sunny's favorite recipes all in one place 
 defaults:
   - scope:
