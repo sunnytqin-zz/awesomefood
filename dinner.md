@@ -7,7 +7,7 @@ title: Dinner
 
 <details>
   <summary>Chinese noodles </summary>
-  
+  <br>
   [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
     >  shape like pasta (roll out and cut to strips) 
   
@@ -17,7 +17,7 @@ title: Dinner
 
 <details>
   <summary>Borscht </summary>
-   
+  <br>
   [Original Link](https://natashaskitchen.com/classic-russian-borscht-recipe/)
 
 </details>
@@ -25,7 +25,7 @@ title: Dinner
 
 <details>
   <summary>Fresh-made Pasta </summary>
-   
+  <br>
   [Original Link](https://www.loveandlemons.com/homemade-pasta-recipe/)
 
 </details>
@@ -34,7 +34,7 @@ title: Dinner
 
 <details>
   <summary>Coconut Rice </summary>
-  
+  <br>
   [Original Link](https://www.youtube.com/watch?v=i9EmC0pM1YE)
   
   | Ingredients |  
