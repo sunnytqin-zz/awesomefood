@@ -1,5 +1,5 @@
 layout: page
 title: "main page"
-permalink: /dinner/
+permalink: main.md
 
 add content here
