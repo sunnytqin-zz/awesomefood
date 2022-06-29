@@ -6,10 +6,13 @@ defaults:
       heading: "Sunny's Confectionary and Computer Science Emporium  "
       subheading: "Her favorite recipes all in one place"
       banner: /banner.jpeg
+    
+utterances:
+   theme: "github-dark"
       
 markdown: kramdown
 kmarkdown:
-  parse_block_html: True
+  input: GFM
 
 plugins:
   - jekyll-feed
