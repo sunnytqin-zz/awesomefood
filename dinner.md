@@ -2,13 +2,12 @@
 layout: post
 title: Dinner
 ---
-{::options parse_block_html="true" /}
 
 ## Asian
 
   <details><summary markdown="span">Chinese noodles</summary>
-      [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
-      >  shape like pasta (roll out and cut to strips) 
+  [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
+    >  shape like pasta (roll out and cut to strips) 
   </details>
   <br/>  
 
@@ -22,8 +21,7 @@ title: Dinner
 
 
 <details><summary markdown="span">Homemade Pasta</summary>
-
-    [Original Link](https://www.loveandlemons.com/homemade-pasta-recipe/)
+  [Original Link](https://www.loveandlemons.com/homemade-pasta-recipe/)
 
 </details>
   
