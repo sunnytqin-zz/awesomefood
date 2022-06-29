@@ -2,6 +2,7 @@
 layout: post
 title: Dinner
 ---
+{::options parse_block_html="true" /}
 
 ## Asian
 
