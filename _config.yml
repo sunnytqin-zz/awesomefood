@@ -9,7 +9,7 @@ defaults:
       
 markdown: kramdown
 kmarkdown:
-  parse_block_html: "true"
+  parse_block_html: True
 
 plugins:
   - jekyll-feed
