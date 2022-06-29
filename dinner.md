@@ -5,29 +5,22 @@ title: Dinner
 
 ## Asian
 
-  {::options parse_block_html="true" /}
-
   <details><summary markdown="span">Chinese noodles</summary>
-  [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
-    >  shape like pasta (roll out and cut to strips) 
+      [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
+      >  shape like pasta (roll out and cut to strips) 
   </details>
-  <br/>
-
-{::options parse_block_html="false" /}
-  
+  <br/>  
 
 ## European (West and East)
 
-<details>
-  <summary>Borscht </summary>
+<details><summary markdown="span">Borscht</summary>
   
   [Original Link](https://natashaskitchen.com/classic-russian-borscht-recipe/)
 
 </details>
 
 
-<details>
-  <summary>Fresh-made Pasta </summary>
+<details><summary markdown="span">Homemade Pasta</summary>
 
     [Original Link](https://www.loveandlemons.com/homemade-pasta-recipe/)
 
@@ -35,7 +28,7 @@ title: Dinner
   
 ## Fusion 
 
-
+<details><summary markdown="span">Coconut Rice</summary>
   [Original Link](https://www.youtube.com/watch?v=i9EmC0pM1YE)
 
   | Ingredients |  
@@ -69,5 +62,6 @@ title: Dinner
   > 10. Add the shredded coconut.  Sauté for another couple of minutes and taste and adjust the seasoning if needed
   > 11. Plate the rice and add the coconut chickpeas on top.  Garnish with some freshly chopped cilantro
 
+  </details>
 
 
