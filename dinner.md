@@ -6,6 +6,16 @@ title: Dinner
 ## Asian
 
 <details>
+  {::options parse_block_html="true" /}
+
+  <details><summary markdown="span">Chinese noodles</summary>
+  [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
+    >  shape like pasta (roll out and cut to strips) 
+  </details>
+  <br/>
+
+{::options parse_block_html="false" /}
+  
   <summary>Chinese noodles </summary>
   <pre>
   
