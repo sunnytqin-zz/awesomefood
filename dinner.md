@@ -8,15 +8,14 @@ title: Dinner
 
   <details><summary markdown="span">Chinese noodles</summary>
   [Original Link](https://whattocooktoday.com/dao-xiao-mian.html)  
-    >  shape like pasta (roll out and cut to strips) 
+   > shape like pasta (roll out and cut to strips) 
   </details>
   <br/>  
 
 ## European (West and East)
 
   <details><summary markdown="span">Borscht</summary>
-
-    [Original Link](https://natashaskitchen.com/classic-russian-borscht-recipe/)
+  [Original Link](https://natashaskitchen.com/classic-russian-borscht-recipe/)
 
   </details>
 
@@ -32,22 +31,22 @@ title: Dinner
   <details><summary markdown="span">Coconut Rice</summary>
     [Original Link](https://www.youtube.com/watch?v=i9EmC0pM1YE)
 
-    | Ingredients |  
+    | Ingredients | Ingredients |  
     | ---      |
-    | 1 cup basmati rice | 
-    | 1 cup coconut milk |
-    | 1/2 red onion |
-    | 1/4 cup hazelnuts |
-    | 1 cup broccolini (chopped) |
-    | 1 tbsp coconut oil |
-    | 1 cup canned chickpeas |
-    | 1/2 tbsp garlic powder |
-    | 1 tsp chili powder |
-    | 1 tbsp smoked paprika |
-    | 2 tsp turmeric |
-    | generous pinch of salt | 
-    | 1/2 cup shredded coconut |
-    | few sprigs cilantro |
+    | 1 cup basmati rice | 1 cup basmati rice | 
+    | 1 cup coconut milk | 1 cup coconut milk |
+    | 1/2 red onion | 1/2 red onion |
+    | 1/4 cup hazelnuts | 1/4 cup hazelnuts |
+    | 1 cup broccolini (chopped) | 1 cup broccolini (chopped) |
+    | 1 tbsp coconut oil | 1 tbsp coconut oil |
+    | 1 cup canned chickpeas | 1 cup canned chickpeas |
+    | 1/2 tbsp garlic powder | 1/2 tbsp garlic powder |
+    | 1 tsp chili powder | 1 tsp chili powder |
+    | 1 tbsp smoked paprika | 1 tbsp smoked paprika |
+    | 2 tsp turmeric | 2 tsp turmeric |
+    | generous pinch of salt | generous pinch of salt | 
+    | 1/2 cup shredded coconut | 1/2 cup shredded coconut |
+    | few sprigs cilantro | few sprigs cilantro |
 
 
     > Directions:  
