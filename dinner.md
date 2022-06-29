@@ -31,22 +31,16 @@ title: Dinner
   <details><summary markdown="span">Coconut Rice</summary>
   [Original Link](https://www.youtube.com/watch?v=i9EmC0pM1YE)
 
-  | Ingredients | Ingredients |  
-  | ---      |
-  | 1 cup basmati rice | 1 cup basmati rice | 
-  | 1 cup coconut milk | 1 cup coconut milk |
-  | 1/2 red onion | 1/2 red onion |
-  | 1/4 cup hazelnuts | 1/4 cup hazelnuts |
-  | 1 cup broccolini (chopped) | 1 cup broccolini (chopped) |
-  | 1 tbsp coconut oil | 1 tbsp coconut oil |
+  | Ingredients | Spices |  
+  | ---      | ---      |
+  | 1 cup basmati rice | 1/2 tbsp garlic powder | 
+  | 1 cup coconut milk | 1 tsp chili powder |
+  | 1/2 red onion | 1 tbsp smoked paprika |
+  | 1/4 cup hazelnuts | 2 tsp turmeric |
+  | 1 cup broccolini (chopped) | generous pinch of salt |
+  | 1 tbsp coconut oil | few sprigs cilantro |
   | 1 cup canned chickpeas | 1 cup canned chickpeas |
-  | 1/2 tbsp garlic powder | 1/2 tbsp garlic powder |
-  | 1 tsp chili powder | 1 tsp chili powder |
-  | 1 tbsp smoked paprika | 1 tbsp smoked paprika |
-  | 2 tsp turmeric | 2 tsp turmeric |
-  | generous pinch of salt | generous pinch of salt | 
-  | 1/2 cup shredded coconut | 1/2 cup shredded coconut |
-  | few sprigs cilantro | few sprigs cilantro |
+  | 1/2 cup shredded coconut |     |
 
 
   > Directions:  
