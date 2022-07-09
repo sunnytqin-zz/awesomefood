@@ -11,11 +11,12 @@ title: Bakery
   [Original Link](https://natashaskitchen.com/classic-russian-borscht-recipe/)
   
   Chocolate Base
-  | Ingredients |  
-  | ---      |
-  | 120g dark chocolate |
-  | 30g unsalted butter | 
-  | 2 tbsp milk | 
+  
+  | Ingredients |    
+  | ---      | 
+  | 120g dark chocolate | 
+  | 30g unsalted butter |  
+  | 2 tbsp milk |  
   | 4 egg whites | 
   | 1 pinch of salt | 
   | 50g sugar | 
@@ -49,11 +50,12 @@ title: Bakery
   4. Add the chocolate to the rest of the whipped cream. Fold to combine.
   
    Chocolate Syrup
+  
   | Ingredients |  
-  | ---      |
-  | 1/3 cup hot water |
-  | 1 tbsp cocoa powder | 
-  | 2 tbsp sugar | 
+  | ---      | 
+  | 1/3 cup hot water | 
+  | 1 tbsp cocoa powder |  
+  | 2 tbsp sugar |  
   
   Directions:  
   1. Mix to dissolve cocoa powder and sugar and let it cool down completely
@@ -63,13 +65,14 @@ title: Bakery
   5. Chill in the fridge for 1 hour. 
   
   Chocolate Glaze
-  | Ingredients |  
-  | ---      |
-  | 16g cocoa powder |
-  | 38g sugar | 
-  | 28ml water |
-  | 28g heavy cream |
-  | 3g gelatin powder | 
+   
+  | Ingredients |   
+  | ---      | 
+  | 16g cocoa powder | 
+  | 38g sugar |  
+  | 28ml water | 
+  | 28g heavy cream | 
+  | 3g gelatin powder |  
   | 1 tbsp cold water | 
   
   Directions:  
