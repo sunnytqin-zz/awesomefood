@@ -2,11 +2,12 @@
 layout: post
 title: Bakery
 ---
-{::options parse_block_html="true" /}
+
+{::options parse_block_html="true"/}
 
 ## Dessert 
 
-  <details><summary markdown="span">Borscht</summary>
+  <details><summary markdown="span">Layered Chocolate Cake</summary>
   [Original Link](https://natashaskitchen.com/classic-russian-borscht-recipe/)
   
   Chocolate Base
