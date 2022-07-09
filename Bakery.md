@@ -49,7 +49,7 @@ title: Bakery
   3. Add 1/3 of the whipped cream into the chocolate. Fold to combine. 
   4. Add the chocolate to the rest of the whipped cream. Fold to combine.
   
-   Chocolate Syrup
+   Chocolate Syrup  
   
   | Ingredients |  
   | ---      | 
