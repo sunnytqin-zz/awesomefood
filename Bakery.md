@@ -3,7 +3,7 @@ layout: post
 title: Bakery
 ---
 
-{::options parse_block_html="true"/}
+{::options parse_block_html="true" /}
 
 ## Dessert 
 
