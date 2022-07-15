@@ -39,10 +39,10 @@ title: Bakery
   
   | Ingredients |  
   | ---      |
-  | 75g dark chocolate |
-  | 45g heavy cream | 
-  | 150g cold heavy cream | 
-  | 15g sugar | 
+  | 150g dark chocolate |
+  | 90g heavy cream | 
+  | 300g cold heavy cream | 
+  | 30g sugar | 
   
   Directions:  
   1. Mix 75g dark chocolate and 45g heavy cream. Melt in hot water. Wait until it cools down.
@@ -92,4 +92,40 @@ title: Bakery
   
 ## Bread
 
+<details><summary markdown="span">Milk Bread</summary>
+  [Original Link](youtube.com/watch?v=tc3coiL36Cg)
+  
+  Tangzhong:
+  
+  | Ingredients |   
+  | ---      | 
+  | 40g  bread flour | 
+  | 100g water | 
+  
+  1. For the Tangzhong, mix 40g bread flour with 200g water in a saute pan. Turn on medium heat and keep stirring until mixture thickens to a paste.
+  2. Refrigerate for at least an hour. Bring out to room temperature before use.
+  
+  Bread
+  
+  | Ingredients |    | 
+  | ---      | --- |  
+  | 290g  bread flour |  5g dry milk |
+  | 30g  sugar | 130g milk | 
+  | 6g  salt | 25g egg | Tangzhong | 
+  | 5g  dry yeast | 25g room temperature unsalted butter |
+  | egg wash (1 egg yolk + milk) | 
+  
+  1. Add bread flour, sugar, salt, dry yeast, powdered milk to a mixing bowl and mix gently with dough hook attachment.
+  2. At low speed, mix in milk and egg and Tangzhong so that no flour is visible.
+  3. Add in room temperature unsalted butter and mix at low speed.
+  4. Slowly turn up the speed to high and mix until all dough sticks together.
+  5. Take the dough and fold it around and underneath itself shaping a smooth ball. Place dough in a bowl, cover with plastic wrap, and let it rest for 40 minutes to an hour.
+  6. Test the dough by poking your finger down into the middle. If the dough does not spring back, it is ready.
+  7. Divide the dough into 6 equal parts (by weight). Take one piece of dough and fold it over itself. Turn it 90 degrees, slap it on table and fold it o over itself again. Using both hands, mold the dough into a ball. Repeat with rest of dough. Cover with plastic wrap and let it rest for 15 minutes.
+  8. Roll each ball of dough out flat. Fold flatten dough using thirds. Turn 90 degrees, and roll dough into a roll, pinching it together at the seam. Place 3 molded dough into a baking pan and let it rest for 30 minutes, letting it rise.
+  9. Brush with egg wash and bake in the oven, preheated to 355°F for 25-30 minutes.
+
+Ingredients
+  
+</details>
 
