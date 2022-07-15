@@ -99,7 +99,7 @@ title: Bakery
   
   | Ingredients |   
   | ---      | 
-  | 40g  bread flour | 
+  | 20g  bread flour | 
   | 100g water | 
   
   1. For the Tangzhong, mix 40g bread flour with 200g water in a saute pan. Turn on medium heat and keep stirring until mixture thickens to a paste.
