@@ -109,11 +109,11 @@ title: Bakery
   
   | Ingredients |    | 
   | ---      | --- |  
-  | 290g  bread flour |  5g dry milk |
-  | 30g  sugar | 130g milk | 
-  | 6g  salt | 25g egg | Tangzhong | 
-  | 5g  dry yeast | 25g room temperature unsalted butter |
-  | egg wash (1 egg yolk + milk) | 
+  | 290g  bread flour |  5g dry milk | 
+  | 30g  sugar | 130g milk |  
+  | 6g  salt | 25g egg |  
+  | 5g  dry yeast | 25g room temperature unsalted butter | 
+  | Tangzhong | egg wash (1 egg yolk + milk) | 
   
   1. Add bread flour, sugar, salt, dry yeast, powdered milk to a mixing bowl and mix gently with dough hook attachment.
   2. At low speed, mix in milk and egg and Tangzhong so that no flour is visible.
