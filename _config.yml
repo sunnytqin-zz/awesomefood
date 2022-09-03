@@ -9,6 +9,8 @@ defaults:
     
 utterances:
    theme: "github-dark"
+
+night_mode: "auto"
       
 markdown: kramdown
 kmarkdown:
