@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: articles
 title: Food
+banner: 'default'
 ---
 
 ## [Dinner](/Food/Dinner/)
