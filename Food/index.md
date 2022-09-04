@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Food
-banner: dinner.jpeg
+banner: 23A_1084.jpg
 ---
 
 ## [Dinner](/Food/dinner.md)
