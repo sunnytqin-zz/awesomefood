@@ -3,7 +3,7 @@ layout: default
 title: Food
 ---
 
-## [Dinner](/Food/dinner.md)
+## [Dinner](/Food/Dinner/)
 ### [Asian](/Food/Dinner/Asian.md)
   Chinese Noodles
 ### [European](/Food/Dinner/European.md)
