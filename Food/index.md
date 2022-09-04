@@ -3,4 +3,4 @@ layout: post
 title: Food
 ---
 
-## [Dinner](/Food/dinner)
+## [Dinner](/Food/dinner.md)
