@@ -12,7 +12,6 @@ utterances:
 
 night_mode: "on"
       
-permalink:   /:categories/:title/
 markdown: kramdown
 kmarkdown:
   input: GFM
