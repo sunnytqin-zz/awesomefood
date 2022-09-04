@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dinner
+title: European
 ---
 {::options parse_block_html="true" /}
 
