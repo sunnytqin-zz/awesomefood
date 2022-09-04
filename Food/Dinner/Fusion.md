@@ -1,3 +1,9 @@
+---
+layout: post
+title: Fusion
+---
+{::options parse_block_html="true" /}
+
 ## Fusion 
 
   <details><summary markdown="span">Coconut Rice</summary>
