@@ -45,7 +45,8 @@ author: Sunny Qin
 copyright: "Unpublished Work (cleft) 2022-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Sunny Qin's personal website. Harvard University. Computer Science PhD. Machine Learning. Statistical Learning.
+  Sunny Qin's personal website. Harvard University. Computer Science PhD. Machine Learning. Statistical Learning. 
+  Sunny's Confectionary and Computer Science Emporium 
   
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -69,7 +70,7 @@ yat:
 # google_analytics: [Tracking ID]
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: true
 
 # If you want to change site language, you can set lang option
 # lang: "en"  # default lang is en
@@ -114,11 +115,11 @@ yat:
 
 # You can choose a brand color
 # Default brand colors as below:
-# orangered: #ff5100
-# greatgold: #f2cb05
-# greenblue: #389092
+orangered: #ff5100
+greatgold: #f2cb05
+greenblue: #389092
 #
-# brand_color: orangered
+brand_color: greatgold
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
