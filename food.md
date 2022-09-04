@@ -4,12 +4,12 @@ title: Food
 ---
 
 ## [Dinner](/Food/dinner.md)
-### [Asian](/Food/Asian.md)
+### [Asian](/Food/Dinner/Asian.md)
   Chinese Noodles
-### [European](/Food/European.md)
+### [European](/Food/Dinner/European.md)
   Borscht
   Homemade Pasta
-### [Fusion](/Food/Fusion.md)
+### [Fusion](/Food/Dinner/Fusion.md)
   Coconut Rice
     
 ## [Bakery](/Food/Bakery.md)
