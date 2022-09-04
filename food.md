@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Research
+title: Food
 ---
 
 ## [Dinner](/Food/dinner.md)
-## [Breakfast](/Food/breakfast.md)
-## [Bakery](/Food/bakery.md)
+## [Bakery](/Food/Bakery.md)
