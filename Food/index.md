@@ -2,4 +2,5 @@
 layout: post
 title: Food
 ---
- ALL FOOD HERE
+
+## [Dinner](/Food/dinner)
